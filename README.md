@@ -14,7 +14,6 @@ Problem link: <>
 
 ### High-level Overview
 
-
 ### CODE
 ```sql
 
